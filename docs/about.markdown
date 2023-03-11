@@ -6,6 +6,9 @@ permalink: /about/
 
 **東京大学情報理工学系研究科　五十嵐研究室（UI LAB）「目のある車」プロジェクトの研究**
 
+興味がある方は、こちらのサイトをご覧ください。<br />
+[Gazing Car Project, UTokyo](http://chiamingchang.com/gazingcarproject.html)
+
 - Can Eyes on a Car Reduce Traffic Accidents? *2022*<br />
   自動運転車からの視線提示による交通事故低減の可能性の検討 [Link](https://www.chiamingchang.com/gazingcar.html)
 

@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Car with Eye
+title: Gazing Car
 email: bobq1998@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, welcome to "Car with Eye" research project.
+  Hi, welcome to one of the "Gazing Car" research projects.
   Our goal is to make Self-driving car more natural and safe to interact with. Your feedback will help us improve.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

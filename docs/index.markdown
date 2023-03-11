@@ -1,6 +1,9 @@
 ---
 layout: page
 ---
+
+<center>第27回 一般社団法人情報処理学会シンポジウム (INTERACTION 2023)</center><br />
+<center>★プレミアム　インタラクティブ発表（デモ）Mar.9 二日目B-31</center><br />
 **日本語の紹介ページです．** For EN version, go [here](https://carwitheye.github.io/en)
 
 論文PDF -> [PDF download](/assets/Paper_int23.pdf)
@@ -12,7 +15,15 @@ layout: page
 <center><font size="6">複数歩行者に向けた視線制御</font></center>
 
 <br />
-<center><strong>銭 寅飛†1　呉 在強†1　桂 新月†1　戸田 光紀†1　張 家銘†1　五十嵐 健夫†1</strong></center>
+<center><strong>
+    <a href="https://scholar.google.com/citations?user=1pi0i1wAAAAJ&hl=en">銭 寅飛†1</a>　
+    <a href="https://scholar.google.com/citations?user=eudRCpEAAAAJ&hl=en">呉 在強†1</a>　
+    <a href="https://xinyuegui.github.io/hcid.gui/index.html">桂 新月†1</a>　
+    <a href="https://revetronique.com/">戸田 光紀†1</a>　
+    <a href="http://chiamingchang.com/">張 家銘†1</a>　
+    <a href="https://www-ui.is.s.u-tokyo.ac.jp/~takeo/index-j.html">五十嵐 健夫†1</a>
+</strong></center>
+
 <br />
 **概要**：車と歩行者のコミュニケーションモダリティとして，多くの研究が「目」を提唱している．歩行者とアイコンタクトをとる場合，合理的かつ自動的に歩行者を見ることが重要な課題となる．しかし，複数の歩行者が車に接近している場合，どのように視線を制御すればよいかは自明ではない．本研究では，複数歩行者に対応した視線制御アルゴリズムを開発している．我々は，CEATEC2022において，提案手法を実装した実車プロトタイプでデモを行った．本稿では，我々の提案手法のアルゴリズムについて説明し，多くの来場者から頂いたフィードバックについて述べる．
 

@@ -7,7 +7,14 @@ layout: page
 <center><font size="6">in Self-driving Cars</font></center>
 
 <br />
-<center><strong>Yinfei Qian†1, Xinyue Gui†1 , Koki Toda†1 , Chia-Ming Zhang†1, Takeo Igarashi†1</strong></center>
+<center><strong>
+    <a href="https://scholar.google.com/citations?user=1pi0i1wAAAAJ&hl=en">Yinfei Qian†1</a>　
+    <a href="https://scholar.google.com/citations?user=eudRCpEAAAAJ&hl=en">Zaiqiang Wu</a>　
+    <a href="https://xinyuegui.github.io/hcid.gui/index.html">Xinyue Gui†1</a>　
+    <a href="https://revetronique.com/">Koki Toda†1</a>　
+    <a href="http://chiamingchang.com/">Chia-Ming Chang†1</a>　
+    <a href="https://www-ui.is.s.u-tokyo.ac.jp/~takeo/index-j.html">Takeo Igarashi†1</a>
+</strong></center>
 <br />
 **Abstract**：The eye concept applied in external human-machine interface (eHMI) become popular. When making eye contact with a pedestrian, it becomes an important issue to look at the pedestrian in a reasonable and automatic way. However, when there is multiple pedestrians approaching to the car, the eye movement is unclear. In this study, we aim to address this problem by improving the algorithm developed by previous research[8]. We make the eye movement automatically and exhibited our car with moving eyes prototype in CEATEC 2022. We welcomed many visitors in different industries, and received feedback from varied aspects, which is useful for future “eye concept” development.
 
